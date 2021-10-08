@@ -1,7 +1,7 @@
 <template>
   <div class="m-3">
     <!-- header -->
-    <div class="flex text-xl md:text-6xl font-bold justify-center py-2">
+    <div class="flex text-xl md:text-4xl font-bold justify-center py-2">
       <vue-mathjax :formula="logo" />
       <h1 class="ml-2">Playground</h1>
     </div>

@@ -1,4 +1,7 @@
-# latex-editor
+# Latex Playground
+Online playground for \LaTeX 
+<img width="1307" alt="Screen Shot 2021-10-09 at 0 27 42" src="https://user-images.githubusercontent.com/33516104/136583418-67d942ba-888c-48f1-b986-ee2e90f4ebfc.png">
+
 
 ## Build Setup
 
